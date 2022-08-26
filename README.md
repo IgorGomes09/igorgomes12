@@ -20,7 +20,7 @@
 - 👨🏻‍🎓 Graduando em Analise e Desenvolvimento de Sistemas.
 - 👨🏻‍💻 Evoluindo no React, TypeScript e Next.js
 - 🧐 Focando em desenvolvimento Web.
-- ⚡ Curiosidade: Trabalho com tecnologia é gosto de café ☕ 
+- ⚡ Curiosidade: Trabalho com tecnologia e gosto de café ☕ 
 - 📫 Como entrar em contato comigo: [igorgomesigla@gmail.com](mailto:igorgomesigla@gmail.com), [WhatsApp](https://api.whatsapp.com/send?phone=5531994002300&text=Ol%C3%A1%2C%20Jo%C3%A3o%20Igor!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20perfil%20do%20GitHub.) 
 ---
 ## <img align="left" alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/1087/1087840.png" /> Tecnologias nas quais trabalho:
